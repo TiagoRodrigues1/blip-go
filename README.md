@@ -31,3 +31,10 @@ By my definition the most active repositories are:
 |8.    | repo381    | 1485.00        |
 |9.    | repo740    | 1211.50        |
 |10.   | repo259    | 992.50         |
+
+## Pre-requisites
+
+Need GO installed
+
+# How to run
+`go run blip.go`
